@@ -1,0 +1,6 @@
+---
+layout: post
+title:  由于种种原因的第一篇日记
+permalink: /my-new-url/test/test2
+---
+因为社交网站的删除风险，以及作为展示的便利，我在这里记下我的思考与想法。
